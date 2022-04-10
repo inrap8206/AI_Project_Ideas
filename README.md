@@ -53,7 +53,7 @@ SK Tacademy
 https://www.youtube.com/c/SKplanetTacademy/videos
 
 ## 4. Data Set
-#### 국내 공공데이터
+#### [국내 공공데이터]
 공공데이터 포털
 https://www.data.go.kr/
 
@@ -69,7 +69,7 @@ https://data.seoul.go.kr/index.do
 서울 빅데이터 캠퍼스
 https://bigdata.seoul.go.kr/main.do
 
-#### 금융
+#### [금융]
 금융통계정보시스템
 https://fisis.fss.or.kr/fss/fsiview/indexw.html
 
@@ -79,14 +79,14 @@ http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd
 한국은행 경제통계 시스템
 http://ecos.bok.or.kr/
 
-#### 보건
+#### [보건]
 국민건강보험자료 공유서비스
 https://nhiss.nhis.or.kr/bd/ay/bdaya001iv.do
 
 보건의료빅데이터 개방시스템
 https://opendata.hira.or.kr/home.do
 
-#### 해외
+#### [해외]
 Awsome Public Datasets
 https://github.com/awesomedata/awesome-public-datasets
 
@@ -96,6 +96,6 @@ https://datasetsearch.research.google.com/search
 Kaggle Datasets
 https://www.kaggle.com/datasets
 
-### 데이터셋 가이드
+### [데이터셋 가이드]
 AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋
 https://book.naver.com/bookdb/book_detail.naver?bid=21508184
