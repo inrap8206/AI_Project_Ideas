@@ -1,5 +1,5 @@
-# AI_Project_Idea
-## 프로젝트 레퍼런스
+# AI Project Idea
+## Project References
 빅데이터 연합 동아리 TOBIGS 프로젝트
 https://www.youtube.com/channel/UCo1MBYfcQ1P9UOGqgW4GNTQ/videos
 
@@ -25,7 +25,7 @@ https://www.youtube.com/c/PyConKRtube/videos
 
 
 
-## AI Competition
+## AI Competitions
 데이콘 AI 대회 리스트
 https://www.notion.so/a66bdf18f5884d1b8015e46a06fc6854
 
@@ -36,7 +36,7 @@ https://farid.one/kaggle-solutions/
 
 
 
-## AI 동향 및 최신 기술
+## AI Trend & Theory
 서울대학교AI연구원
 https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90/videos
 
