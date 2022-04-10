@@ -19,6 +19,8 @@ https://www.youtube.com/playlist?list=PL9mhQYIlKEhdPz9ehIBMnRy1_stJkBnBI
 Pycon Korea
 https://www.youtube.com/c/PyConKRtube/videos
 
+Awesome Ai Project Ideas
+https://github.com/NirantK/awesome-project-ideas
 
 ## 2. AI Competitions
 데이콘 AI 대회 리스트
@@ -51,6 +53,9 @@ https://www.youtube.com/c/NIAAIHub/videos
 
 SK Tacademy
 https://www.youtube.com/c/SKplanetTacademy/videos
+
+Paperswithcode - SOTAs for Tasks
+https://paperswithcode.com/sota
 
 ## 4. Data Set
 #### [국내 공공데이터]
@@ -96,6 +101,19 @@ https://datasetsearch.research.google.com/search
 Kaggle Datasets
 https://www.kaggle.com/datasets
 
-### [데이터셋 가이드]
+Paperswithcode Datasets
+https://paperswithcode.com/datasets
+
+#### [데이터셋 가이드]
 AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋
 https://book.naver.com/bookdb/book_detail.naver?bid=21508184
+
+## AI Project Tips
+성공적인 팀 프로젝트를 위한 팁!
+https://dacon.io/forum/401590?page=2&dtype=recent
+
+7 Essential Tips to Effectively Manage Your AI Projects!
+https://www.bridge-global.com/blog/tips-to-manage-ai-projects
+
+How to accelerate Artificial Intelligence (AI): 9 tips
+https://enterprisersproject.com/article/2021/8/artificial-intelligence-ai-how-accelerate
