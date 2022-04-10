@@ -1,22 +1,22 @@
 AI Project의 Idea 탐색 및 주제선정에 참고가 될만한 자료모음 입니다. <br/> <br/>
 
 ## 1. AI Project References
-빅데이터 연합 동아리 TOBIGS 프로젝트
+빅데이터 연합 동아리 TOBIGS 프로젝트 모음
 https://www.youtube.com/channel/UCo1MBYfcQ1P9UOGqgW4GNTQ/videos
 
-빅데이터 연합동아리 BOAZ 프로젝트
+빅데이터 연합동아리 BOAZ 프로젝트 모음
 https://www.youtube.com/channel/UCSniI26A56n2QZ71opJtTUg/videos
 
-모두의 연구소 AIFFEL 프로젝트
+모두의 연구소 AIFFEL 프로젝트 모음
 https://www.youtube.com/playlist?list=PLv6H9ngYdJbJljjBXDwLQTrDLuFXLLMov
 
-데이터인싸 데이터 청년 캠퍼스 프로젝트
+데이터인싸 데이터 청년 캠퍼스 프로젝트 모음
 https://www.youtube.com/playlist?list=PLdWOeFZS0Yp__JETseWtQcvLHoYEJmQX0
 
-SKPlanet Tacademy Python기반 AI활용 데이터분석가 양성과정
+SKPlanet Tacademy Python기반 AI활용 데이터분석가 양성과정 프로젝트 모음
 https://www.youtube.com/playlist?list=PL9mhQYIlKEhdPz9ehIBMnRy1_stJkBnBI
 
-Pycon Korea
+Pycon Korea 발표자료 모음
 https://www.youtube.com/c/PyConKRtube/videos
 
 Awesome Ai Project Ideas
