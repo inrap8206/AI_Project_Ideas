@@ -1,4 +1,4 @@
-AI Project의 Idea 탐색 및 주제선정에 참고가 될만한 자료모음 입니다. <br/> <br/>
+AI Project의 Idea 발굴 및 주제선정에 참고가 될만한 자료모음 입니다. <br/> <br/>
 
 ## 1. AI Project References
 빅데이터 연합 동아리 TOBIGS 프로젝트 모음
