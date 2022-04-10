@@ -23,7 +23,7 @@ Awesome Ai Project Ideas
 https://github.com/NirantK/awesome-project-ideas
 
 ## 2. AI Competitions
-데이콘 AI 대회 리스트
+Dacon AI 대회 리스트
 https://www.notion.so/a66bdf18f5884d1b8015e46a06fc6854
 
 AI Factory 대회 리스트
