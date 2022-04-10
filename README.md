@@ -20,7 +20,7 @@ Pycon Korea
 https://www.youtube.com/c/PyConKRtube/videos
 
 Awesome Ai Project Ideas
-https://github.com/NirantK/awesome-project-ideas
+https://github.com/NirantK/awesome-project-ideas <br/> <br/>
 
 ## 2. AI Competitions
 Dacon AI 대회 리스트
@@ -30,32 +30,32 @@ AI Factory 대회 리스트
 https://aifactory.space/
 
 캐글 AI 대회 리스트
-https://farid.one/kaggle-solutions/
+https://farid.one/kaggle-solutions/ <br/> <br/>
 
 ## 3. AI Trend & Theory
-서울대학교AI연구원
+서울대학교AI연구원 - AI 연구사례, 강의
 https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90/videos
 
-AI프렌즈
+AI프렌즈 - AI 활용사례
 https://www.youtube.com/c/AI%ED%94%84%EB%A0%8C%EC%A6%88/videos
 
-고려대학교 산업경영공학부 DSBA 연구실
+고려대학교 산업경영공학부 DSBA 연구실 - AI 논문 리뷰
 https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg/videos
 
-딥러닝논문읽기모임
+딥러닝논문읽기모임 - AI 논문 리뷰
 https://www.youtube.com/c/%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84/videos
 
-AI는 내 친구
+AI는 내 친구 - AI 기초 강의
 https://www.youtube.com/channel/UCgYEDLbAcP26PjuOGebu05A/videos
 
-NIA AI Hub
+NIA AI Hub - AI 데이터 소개 및 활용 사례
 https://www.youtube.com/c/NIAAIHub/videos
 
-SK Tacademy
+SK Tacademy - AI 교육 및 프로젝트 발표
 https://www.youtube.com/c/SKplanetTacademy/videos
 
-Paperswithcode - SOTAs for Tasks
-https://paperswithcode.com/sota
+Paperswithcode - Task별 SOTA(State of the Art)모델 조회
+https://paperswithcode.com/sota <br/> <br/>
 
 ## 4. Data Set
 #### [국내 공공데이터]
@@ -106,9 +106,9 @@ https://paperswithcode.com/datasets
 
 #### [데이터셋 가이드]
 AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋
-https://book.naver.com/bookdb/book_detail.naver?bid=21508184
+https://book.naver.com/bookdb/book_detail.naver?bid=21508184 <br/> <br/>
 
-## AI Project Tips
+## 5. AI Project Tips
 성공적인 팀 프로젝트를 위한 팁!
 https://dacon.io/forum/401590?page=2&dtype=recent
 
