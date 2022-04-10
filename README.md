@@ -30,12 +30,9 @@ https://farid.one/kaggle-solutions/
 
 
 
-
 ## AI Trend & Theory
 서울대학교AI연구원
 https://www.youtube.com/c/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90/videos
-
-
 
 AI프렌즈
 https://www.youtube.com/c/AI%ED%94%84%EB%A0%8C%EC%A6%88/videos
@@ -58,3 +55,5 @@ https://www.youtube.com/c/NIAAIHub/videos
 
 SK Tacademy
 https://www.youtube.com/c/SKplanetTacademy/videos
+
+## Data Set
