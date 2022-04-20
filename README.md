@@ -108,7 +108,7 @@ https://paperswithcode.com/datasets
 AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋
 https://book.naver.com/bookdb/book_detail.naver?bid=21508184 <br/> <br/>
 
-## 5. AI Project Tips
+## 5. Tips for Successful AI Project
 성공적인 팀 프로젝트를 위한 팁!
 https://dacon.io/forum/401590?page=2&dtype=recent
 
